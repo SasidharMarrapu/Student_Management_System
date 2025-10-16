@@ -5,6 +5,16 @@ This project enables administrators and students to manage profiles, attendance,
 It also supports frontend integration using **HTML, CSS, and JavaScript** via REST API endpoints.
 
 ---
+## 📸 Screenshots
+
+### 🧑‍🎓 Login Page
+
+<img width="700" height="800" alt="Login" src="https://github.com/user-attachments/assets/296fb9c5-8471-4f2a-b940-73ca43ea276a" />
+
+### 🏠 Dashboard
+
+<img width="700" height="800" alt="DashBoard" src="https://github.com/user-attachments/assets/aecef002-638f-4745-97c5-09c91e18e0ca" />
+
 
 ## 🚀 Features
 
